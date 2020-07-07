@@ -4,6 +4,7 @@ def call(global, config, p1, p2) {
   echo "P1:${p1}"
   echo "P2:${p2}"
   echo "G:${global.A}"
+  echo "C:${config.B}"
   
 }
 
